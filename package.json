@@ -2,9 +2,9 @@
   "name": "carter-proxy",
   "version": "1.0.0",
   "description": "Reverse proxy.",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node index.js"
   },
   "private": true,
   "author": "vittitow",
