@@ -1,0 +1,15 @@
+{
+  "name": "carter-proxy",
+  "version": "1.0.0",
+  "description": "Reverse proxy.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "private": true,
+  "author": "vittitow",
+  "license": "ISC",
+  "dependencies": {
+    "proxy-chain": "^0.3.2"
+  }
+}
